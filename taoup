@@ -1023,6 +1023,7 @@ puts white{ "Although Darwin eventually did quite well in his final exams, most 
 puts white{ "A good system is the work of many but the vision of one." }
 puts white{ "There are only two hard problems in robotics: perception and funding." } + black{ bold{ " - @jvanderbot" } }
 puts white{ "Every time my MS rep brings up Office 365 I correct him: " } + white{ bold{ "\"It's Office 363. It does not work twice a year.\"" } } + black{ bold{ " - @freetanga" } }
+puts white{ "Throughout history it has been convenient to blame others or more precisely, to accept the propaganda that blames others. This persists even in our information age... no matter how blindingly obvious (and pathetic) it becomes, today's populations - of all political stripes - fall for the same cheap ploys (even without the looming generative misinformation storms). Let's be clear here: " } + white{ bold{ "the problems are not in others - they are in the myopia of the middle classes" } } + white{ ": where all the manipulation of greed, the desire to breed, status, credulousness, etc. have been distilled into an intoxicant that has dissolved thought and sublimated into the very fabric of society." } + black{ bold{ " - @rntn" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
