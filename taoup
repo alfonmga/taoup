@@ -1024,6 +1024,12 @@ puts white{ "A good system is the work of many but the vision of one." }
 puts white{ "There are only two hard problems in robotics: perception and funding." } + black{ bold{ " - @jvanderbot" } }
 puts white{ "Every time my MS rep brings up Office 365 I correct him: " } + white{ bold{ "\"It's Office 363. It does not work twice a year.\"" } } + black{ bold{ " - @freetanga" } }
 puts white{ "Throughout history it has been convenient to blame others or more precisely, to accept the propaganda that blames others. This persists even in our information age... no matter how blindingly obvious (and pathetic) it becomes, today's populations - of all political stripes - fall for the same cheap ploys (even without the looming generative misinformation storms). Let's be clear here: " } + white{ bold{ "the problems are not in others - they are in the myopia of the middle classes" } } + white{ ": where all the manipulation of greed, the desire to breed, status, credulousness, etc. have been distilled into an intoxicant that has dissolved thought and sublimated into the very fabric of society." } + black{ bold{ " - @rntn" } }
+puts white{ "Beware the barrenness of a busy life." } + black{ bold{ " - Socrates" } }
+puts white{ "Leisure is the mother of Philosophy." } + black{ bold{ " - Thomas Hobbes" } }
+puts white{ "It is too difficult to think nobly when one thinks only of earning a living." } + black{ bold{ " - Jean-Jacques Rousseau" } }
+puts white{ "The truth brings no man a fortune." } + black{ bold{ " - Jean-Jacques Rousseau" } }
+puts white{ "Today as always, men fall into two groups: slaves and free men. Whoever does not have two-thirds of his day for himself, is a slave, whatever he may be: a statesman, a businessman, an official, or a scholar." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion." } + black{ bold{ " - Albert Camus" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -1064,6 +1070,7 @@ puts white{ "I never see a newspaper and don't give a damn for what is called th
 puts white{ bold{ "I am happy because I want nothing from anyone." } } + white{ " I do not care about money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin, and my sailboat, is the appreciation of my fellow workers." } + black{ bold{ " - Einstein" } }
 puts white{ "Unthinking respect for authority is the greatest enemy of truth." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "To punish me for my contempt of authority, Fate has made me an authority myself." } + black{ bold{ " - Albert Einstein" } }
+puts white{ "Capitalism creates a huge community of producers who are unceasingly striving to deprive each other of the fruits of their collective labor, and an oligarchy that cannot be effectively checked even by a democratically organized society... the subjugation is not by force but because the privileged class has long ago established a system of values by which the people were thenceforth, to a large extent unconsciously, guided in their social behavior." } + black{ bold{ " - Einstein" } }
 
 # Richard Feynman
 puts "----- richard feynman -----"
