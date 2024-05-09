@@ -1296,7 +1296,7 @@ puts white{ bold{ "In carpentry you measure twice and cut once." } } + white{ " 
 puts white{ "One, one coco full basket." } + black{ bold{ " - Jamaican saying" } }
 puts white{ bold{ "Festina lente" } } + black{ bold{ ": " } } + white{ "Make haste slowly." } + black{ bold{ " - Latin translation a Greek proverb (σπεῦδε βραδέως)" } }
 puts white{ bold{ "You are not late" } } + black{ bold{ ": " } } + white{ "There has never been a better time in the whole history of the world to invent something." } + black{ bold{ " - Kevin Kelly" } }
-
+puts white{ "To plant a garden is to believe in tomorrow." } + black{ bold{ " - Audrey Hepburn" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
