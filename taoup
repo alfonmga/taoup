@@ -1032,6 +1032,7 @@ puts white{ "Today as always, men fall into two groups: slaves and free men. Who
 puts white{ "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion." } + black{ bold{ " - Albert Camus" } }
 puts white{ bold{ "別像英國海軍，有了大樓就開始沒落" } } + black{ bold{ ": " } } + white{ "Don't be like the British Navy, declining once they got a big building." } + black{ bold{ " - Morris Chang, Founder, TSMC" } }
 puts white{ "A software launch is like performing live theater for introverts." } + black{ bold{ " - @grumpyolddev" } }
+puts white{ "Any political gains stemming from a military victory cannot possibly be offset by the enormous economic, intellectual and moral investment." } + black{ bold{ " - Billionaire Jim 'Quant King' Simmons, ex US Institute of Defence Analyses Soviet codebreaker, on the macro-economic fallacy of US investment in the Vietnam War" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
