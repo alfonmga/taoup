@@ -1041,6 +1041,7 @@ puts white{ bold{ "The principal function of most corporations is not to maximiz
 puts white{ bold{ "The most valuable and least replaceable resource is time." } } + black{ bold{ " - Russell L. Ackoff" } }
 puts white{ bold{ "Hierarchy of mental content" } } + white{ " (in order of increasing value):" } + white{ bold{ " data, information, knowledge, understanding, and wisdom" } } + white{ "." } + black{ bold { " - Russell L. Ackoff" } }
 puts white{ "The best thing that can be done to a problem is not to solve it but to dissolve it." } + black{ bold{ " - Russell L. Ackoff" } }
+puts white{ "In most organizations, the bottleneck is at the top of the bottle." } + black{ bold{ " - Peter F. Drucker" } }
 
 # Anderson
 puts "----- poul anderson -----"
