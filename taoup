@@ -1299,6 +1299,10 @@ puts white{ "One, one coco full basket." } + black{ bold{ " - Jamaican saying" }
 puts white{ bold{ "Festina lente" } } + black{ bold{ ": " } } + white{ "Make haste slowly." } + black{ bold{ " - Latin translation a Greek proverb (σπεῦδε βραδέως)" } }
 puts white{ bold{ "You are not late" } } + black{ bold{ ": " } } + white{ "There has never been a better time in the whole history of the world to invent something." } + black{ bold{ " - Kevin Kelly" } }
 puts white{ "To plant a garden is to believe in tomorrow." } + black{ bold{ " - Audrey Hepburn" } }
+puts white{ "Technology evolution supports a rich future for ambitious visions and dreams." } + black{ bold{ " - F. J. Corbató" } }
+puts white{ "One must try to learn from past mistakes but be alert for new circumstances." } + black{ bold{ " - F. J. Corbató" } }
+puts white{ "Successful ambitious systems demand a defensive philosophy of design and implementation." } + black{ bold{ " - F. J. Corbató" } }
+puts white{ bold{ "Yet quality takes time." } } + white{ " Our embrace of high tech gadgetry could turn life in to a series of rushed encounters and clipped exchanges, producing ideas of diminishing depth." } + black{ bold{ " - Langdon Winner (1990)" } }
 
 # re-sectionize
 puts "----- eponymous randoms -----"
