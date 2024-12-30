@@ -1034,6 +1034,8 @@ puts white{ bold{ "別像英國海軍，有了大樓就開始沒落" } } + black
 puts white{ "A software launch is like performing live theater for introverts." } + black{ bold{ " - @grumpyolddev" } }
 puts white{ "Any political gains stemming from a military victory cannot possibly be offset by the enormous economic, intellectual and moral investment." } + black{ bold{ " - Billionaire Jim 'Quant King' Simmons, ex US Institute of Defence Analyses Soviet codebreaker, on the macro-economic fallacy of US investment in the Vietnam War" } }
 puts white{ "Swearing is caring." } + black{ bold{ " - Graduate School of Business, Stanford, paraphrasing \"We found a consistent positive relationship between profanity and honesty; profanity was associated with less lying and deception at the individual level, and with higher integrity at the society level.\"" } } # https://lolmythesis.com/post/621200418733719552/swearing-is-caring
+puts white{ "I think it's a common fallacy that we, as a species, are not ignorant to the complexity of Nature." } + black{ bold{ " -  Artem Babaian, co-discoverer of viroid-like 'obelisks'" } }
+puts white{ "In our estimation the cost problem came down mainly to the installation of wires. [...] And so by essentially using unused pairs that were in the telephone bundles in office buildings, we essentially reduced the cost of wiring to zero and you know it doesn't get any cheaper than that. Well... hold my beer while I go get wifi." } + black{ bold{ " - Richard Bennett, Vice-chair & Editor, IEEE 802.3 1BASE5" } } # https://www.youtube.com/watch?v=f8PP5IHsL8Y
 
 # Ackoff
 puts "----- russell l. ackoff -------"
