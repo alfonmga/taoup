@@ -1037,6 +1037,7 @@ puts white{ "Swearing is caring." } + black{ bold{ " - Graduate School of Busine
 puts white{ "I think it's a common fallacy that we, as a species, are not ignorant to the complexity of Nature." } + black{ bold{ " -  Artem Babaian, co-discoverer of viroid-like 'obelisks'" } }
 puts white{ "In our estimation the cost problem came down mainly to the installation of wires. [...] And so by essentially using unused pairs that were in the telephone bundles in office buildings, we essentially reduced the cost of wiring to zero and you know it doesn't get any cheaper than that. Well... hold my beer while I go get wifi." } + black{ bold{ " - Richard Bennett, Vice-chair & Editor, IEEE 802.3 1BASE5" } } # https://www.youtube.com/watch?v=f8PP5IHsL8Y
 puts white{ "There will always be a market for smart people who are willing to be fearless of the unknown, willing to be lifelong learners and who are in technology because they can't imagine doing anything else." } + black{ bold{ " - @apercu" } }
+puts white{ bold{ "Glutinum praestantissimum fit ex auribus taurorum et genitalibus." } } + white{ " The best glue is made from the ears and genitals of bulls." } + black{ bold{ " - Pliny the Elder's 'Natural History'. Glue was used to paste together manuscripts, the first page of which was a 'protocollum' from the Greek πρωτόκολλον (prōtókollon), giving rise to the word 'protocol' in both the networking and scientific process sense." } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
