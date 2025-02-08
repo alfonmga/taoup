@@ -2259,3 +2259,20 @@ puts white{ "Step out of your comfort zone." }
 puts white{ "Be sensitive to uncertainty." }
 puts white{ "Focus on the outcome." }
 puts white{ "Extract learning." }
+
+# We are destroying software @ https://antirez.com/news/145
+puts "---- Destroying software ----"
+puts white{ "We are destroying software by no longer taking complexity into account when adding features or optimizing some dimension."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software with complex build systems."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software with an absurd chain of dependencies, making everything bloated and fragile."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software telling new programmers: “Don’t reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by no longer caring about backward APIs compatibility."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software pushing for rewrites of things that work."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by jumping on every new language, paradigm, and framework."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by always underestimating how hard it is to work with existing complex libraries VS creating our stuff."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by always thinking that the de-facto standard for XYZ is better than what we can do, tailored specifically for our use case."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software claiming that code comments are useless."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software mistaking it for a purely engineering discipline."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by making systems that no longer scale down: simple things should be simple to accomplish, in any system."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software trying to produce code as fast as possible, not as well designed as possible."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software, and what will be left will no longer give us the joy of hacking."} + black{ bold{ " - @antirez" } }
