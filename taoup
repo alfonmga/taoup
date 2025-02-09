@@ -2276,3 +2276,15 @@ puts white{ "We are destroying software mistaking it for a purely engineering di
 puts white{ "We are destroying software by making systems that no longer scale down: simple things should be simple to accomplish, in any system."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software trying to produce code as fast as possible, not as well designed as possible."} + black{ bold{ " - @antirez" } }
 puts white{ "We are destroying software, and what will be left will no longer give us the joy of hacking."} + black{ bold{ " - @antirez" } }
+
+puts "---- dieter rams' 10 principles of good design ----"
+puts white{ "Good design is innovative." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design makes a product useful." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is aesthetic." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design makes a product understandable." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is unobtrusive." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is honest." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is long-lasting." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is thorough down to the last detail." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is environmentally-friendly." } + black{ bold{ " - Dieter Rams" } }
+puts white{ "Good design is as little design as possible." } + black{ bold{ " - Dieter Rams" } }
