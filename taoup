@@ -1074,7 +1074,7 @@ puts white{ "Everything should be made as simple as possible, but no simpler." }
 puts white{ "No worthy problem is ever solved in the plane of its original conception." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "Not everything that can be counted counts, and not everything that counts can be counted." } + black{ bold{ " - Albert Einstein" } }
 puts white{ "I have always found repulsive the undignified addiction to conformity of many of my peers. At times like this one realises what a sorry species one belongs to." } + black{ bold{ " - Einstein" } }
-puts white{ "Nationalism is an infantile disease. It is the measles of mankind." } + black{ bold{ " - Einstein" } }
+puts white{ bold{ "Nationalismus ist eine Kinderkrankheit. Er ist die Masern der Menschheit." } } + white{ " Nationalism is an infantile disease. It is the measles of mankind." } + black{ bold{ " - Einstein, by attribution" } }
 puts white{ "We can not solve our problems with the same level of thinking that created them." } + black{ bold{ " - Einstein" } }
 puts white{ "I never see a newspaper and don't give a damn for what is called the world." } + black{ bold{ " - Einstein" } }
 puts white{ bold{ "I am happy because I want nothing from anyone." } } + white{ " I do not care about money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin, and my sailboat, is the appreciation of my fellow workers." } + black{ bold{ " - Einstein" } }
