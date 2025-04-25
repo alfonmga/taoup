@@ -1042,6 +1042,8 @@ puts white{ "Venture capital is not even a home-run business. It’s a grand-sla
 puts white{ bold{ "Metrology" } } + black{ bold{ ":" } } + white{ " it's a dirty business." } + black{ bold{ " - Tom Lipton, Oxtool" } }
 puts white{ "Not everything that can be counted counts, and not everything that counts can be counted." } + black{ bold{ " - William Bruce Cameron, 'Informal Sociology' (1963)" } }
 puts white{ "Reality is negotiable." } + black{ bold{ " - Timothy Ferriss" } }
+puts white{ "Do not confuse inexperience with creativity." } + black{ bold{ " - Linda Whittaker" } }
+puts white{ "Greatness is more common than we realize and the rarity is recognition." } + black{ bold{ " - Christopher Butler" } }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
